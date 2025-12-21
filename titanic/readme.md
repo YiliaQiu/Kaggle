@@ -6,6 +6,7 @@ This is a competition from Kaggle, we need to predict whether a passenger could 
 |time|Kaggle test score|train cross_val_score|
 |---|---|---|
 |1|0.76076|0.805831|
+|2|0.77272|0.8441|
 
 
 Train.csv is provided for training proper models, so it includes survival information.
